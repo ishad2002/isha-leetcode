@@ -8,8 +8,13 @@
 
 ---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Ishad?theme=dark&font=Baloo&ext=heatmap)
-
+## 📊 LeetCode Stats
+| Category | Count |
+|----------|-------|
+| Total Solved | XXX |
+| Easy | XX |
+| Medium | XX |
+| Hard | XX |
 
 ---
 
