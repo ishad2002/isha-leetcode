@@ -11,7 +11,8 @@ Time: O(n)
 Space: O(n)
 
 """
-import List
+from typing import List
+
 
 # ---------------- BRUTE FORCE ----------------
 class Solution:
